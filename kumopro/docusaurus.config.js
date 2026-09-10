@@ -11,10 +11,10 @@ const config = {
     v4: true,
   },
 
-  url: 'https://kumopro.com',
-  baseUrl: '/',
+  url: 'https://kumoprogit.github.io/',
+  baseUrl: '/docusaurus/',
 
-  organizationName: 'facebook',
+  organizationName: 'kumoprogit',
   projectName: 'docusaurus',
 
   onBrokenLinks: 'throw',
