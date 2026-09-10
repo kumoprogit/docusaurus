@@ -58,7 +58,7 @@ const config = {
       // static/img/banner-icon.png を表示し、static/docs/special-coupon.pdf にリンクする例
       content: `
       <span style="font-size: 24px; font-weight: bold;">
-        <img src="/img/kumo_icon.png" width="40" height="40" style="vertical-align: middle; margin-right: 12px;" />
+        <img src="/docusaurus/img/kumo_icon.png" width="40" height="40" style="vertical-align: middle; margin-right: 12px;" />
         メンバー向け情報
       `,
       backgroundColor: '#ffffff',
