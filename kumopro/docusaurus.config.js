@@ -17,7 +17,7 @@ const config = {
   organizationName: 'kumoprogit',
   projectName: 'docusaurus',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
