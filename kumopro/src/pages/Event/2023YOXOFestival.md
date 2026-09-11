@@ -14,17 +14,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[会場図](https://www.kumopro.com/nextcloud/index.php/s/TCBRaSHZ6yA76Ns)
 
 ### 参加者
-&nbsp;&nbsp;&nbsp;&nbsp;[山田さん](mailto:takao.yamada@kumopro.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:takao.yamada@kumopro.com">山田さん</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[山口さん](mailto:yukie.yamaguchi@kumopro.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:yukie.yamaguchi@kumopro.com">山口さん</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[山本さん](mailto:koji.yamamoto@kumopro.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:koji.yamamoto@kumopro.com">山本さん</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[勝畑さん](mailto:satomi.katsuhata@kumopro.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:satomi.katsuhata@kumopro.com">勝畑さん</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[玉木さん](mailto:kohei.tamaki@kumopro.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kohei.tamaki@kumopro.com">玉木さん</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[森本](mailto:yoshinobu.morimoto@kumopro.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:yoshinobu.morimoto@kumopro.com">森本</a>
 
 ### マニュアル
 &nbsp;&nbsp;&nbsp;&nbsp;[事前準備テキスト](https://docs.google.com/presentation/d/10K-sXq5Kw4gICwNafUCIDco8JCte1VQo/edit?usp=sharing&ouid=110192273208136164878&rtpof=true&sd=true)
