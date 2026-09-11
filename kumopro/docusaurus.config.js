@@ -20,8 +20,8 @@ const config = {
   onBrokenLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'jp',
+    locales: ['jp'],
   },
 
   presets: [
@@ -31,7 +31,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+           'https://github.com/kumoprogit/docusaurus/tree/main/kumopro/',
         },
         blog: {
           showReadingTime: true,
@@ -40,7 +40,7 @@ const config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+           'https://github.com/kumoprogit/docusaurus/tree/main/kumopro/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -60,6 +60,7 @@ const config = {
       <span style="font-size: 24px; font-weight: bold;">
         <img src="/docusaurus/img/kumo_icon.png" width="40" height="40" style="vertical-align: middle; margin-right: 12px;" />
         メンバー向け情報
+      </span>
       `,
       backgroundColor: '#ffffff',
       textColor: '#091e42',
