@@ -7,7 +7,7 @@
 - [202501 YOXOFestival](./202501YOXOFestival.md)
 - [202501 YOXOFestival 2025 事前勉強会２](./202501YOXOFestival事前勉強会２.md)
 - [202501 YOXOFestival 2025 事前勉強会](./202501YOXOFestival事前勉強会.md)
-- [202410 キッズコネクション](./202410キッズコネクション.md)
+- [202410 キッズコネクション](./202410kidsconnection)
 - [202409 吉祥寺北コミュニティーセンター](./202409kichijoji_n)
 - [202409 吉祥寺イベント/事前打ち合わせ](./202409kichijoji_pre)
 - [202407 キッズコネクション](./202407kidsconnection)
