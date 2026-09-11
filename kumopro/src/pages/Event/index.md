@@ -17,7 +17,7 @@
 - [2023   日吉地区センタープログラミング教室](./2023hiyoshi)
 - [20230401 キッズコネクション](./20230401kidsconnection)
 - [20230226 長野県中野市オンラインプログラミング教室](./20230226NakanoPrograming)
-- [20230128 YOXOFestival 2023](./20230128QueensSquare)
+- [20230128 YOXOFestival 2023](./2023YOXOFestival)
 
 ---
 
