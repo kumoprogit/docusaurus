@@ -2,7 +2,7 @@
 
 - [20260131 YOXOFestival 2026](./20260131YOXO.md)
 - [2025   日吉地区センタープログラミング教室](./2025日吉地区センタープログラミング教室.md)
-- [202506 キッズスマイル箕輪](./202506キッズスマイル箕輪.md)
+- [202506 キッズスマイル箕輪](./202506kidsstyle_minowa)
 - [202503 キッズスマイル箕輪](./202503kidsstyle_minowa)
 - [202501 YOXOFestival](./2025YOXOFestival)
 - [202501 YOXOFestival 2025 事前勉強会２](./2025YOXOFestival_pre2)
